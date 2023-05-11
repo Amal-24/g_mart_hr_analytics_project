@@ -1,8 +1,8 @@
 # G-Mart HR Analytics Project
 Hello Analyst,
-  The HR department frequently confront numerous obstacles which hinder them in efficient decision making.
+  The Human Resource department frequently confront numerous obstacles which hinder them in efficient decision making.
   
-  The HR Analytics Project of G-Mart hardware dealership is a solution to all the problems that occur in proper descision making.
+  The HR Analytics Project of G-Mart hardware dealership is a solution to all those obstacles.
   
   The  Objective of this project is to answer the following queries by HR department:
      Q1) What is the employee presence ratio for the months April,May and June?
